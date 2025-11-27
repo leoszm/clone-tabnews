@@ -1,9 +1,10 @@
 # Anottations
 ## Terminal Commands
-### Node -v -> used for show how node version installed and in use in your system
+### node -v -> used for show how node version installed and in use in your system
 ### nvm ls -> used for show versions installed in your system and version avaiable for install
+### nvm install lts/hydrogen
 ### nvm --help
-### nvm alias default
+### nvm alias default lts/hydrogen
 
 ## Steps of the lecture
 ### First Step Configure the develop environment using terminal commands to verify version of node installed in your system and install node lts/hydrogen version

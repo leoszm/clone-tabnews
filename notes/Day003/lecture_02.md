@@ -1,9 +1,9 @@
 # Anottations
 ## Terminal Commands
 ### npm init -> used to create package.json file and set properties, describe... many things
-### npm install next@version -> used to install next.js version in package.json
+### npm install next@13.1.6 -> used to install next.js version 13.1.6 in package.json
 ### npm install react@version -> used to install react version in package.json
-### npm install react-dom@version -> used to install react-dom version in package.json
+### npm install react-dom@version -> used to install react-dom version in package.json'
 ## Steps of the lecture
 ### We need a file with the corrects versions of next and react, this file is called package.json, her function is be a "manifesto" file telling to outside devs or remote servers what function your app will be work
 ### Execute npm init to setup informations, describes, some properties, after this the package.json was been created
